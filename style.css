@@ -1,0 +1,38 @@
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10em;
+ }
+
+ div {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+}
+
+.buttons {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    background-color: papayawhip;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:first-child:hover {
+    background-color: green;
+}
+
+.buttons:nth-child(2):hover {
+    background-color: yellow;
+}
+
+.buttons:last-child:hover {
+    background-color: red;
+}
+
+body {
+    padding: 275px;
+}
