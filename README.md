@@ -42,7 +42,7 @@ counter-app/
    ```
 2. Entra nella cartella del progetto
    ```bash
-   cd counter-app
+   cd Progetto-Javascript-COUNTER-main
    ```
 3. Apri il file `index.html` nel tuo browser preferito
 
