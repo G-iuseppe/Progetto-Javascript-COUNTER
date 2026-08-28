@@ -38,7 +38,7 @@ counter-app/
 
 1. Clona o scarica questo repository
    ```bash
-   git clone <url-del-repository>
+   https://github.com/G-iuseppe/Progetto-Javascript-COUNTER
    ```
 2. Entra nella cartella del progetto
    ```bash
